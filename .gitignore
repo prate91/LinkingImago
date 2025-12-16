@@ -4,4 +4,4 @@
 *.zip
 *.json
 *.txt
-*.tsv
+# *.tsv
